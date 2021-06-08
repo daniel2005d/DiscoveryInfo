@@ -10,7 +10,7 @@ html5lib==0.999999999
 idna==2.5
 image==1.5.7
 olefile==0.44
-Pillow==4.2.1
+Pillow==8.2.0
 PyExifTool==0.1
 pygobject==3.24.1
 pytz==2017.2
